@@ -24,6 +24,7 @@ Commercial use is strictly prohibited without written permission from the author
 
 - Reorganized the frontend architecture.
 - Separated API communication from the main `App.tsx` component.
+- Added normalizer.py to normalize queries and categorize them
 - Added a dedicated search API layer at `src/features/search/searchApi.ts`.
 - Added structured TypeScript types for search results.
 - Added reusable URL truncation utility.
