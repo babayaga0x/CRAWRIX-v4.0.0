@@ -3,7 +3,7 @@
 ⚠️ This project is provided under Apache 2.0 + Commons Clause.
 Commercial use is strictly prohibited without written permission from the author.
 
-📧 Email: danpain800@gmail.com
+📧 Email: danpain779@gmail.com
 
 <p align="center">
   <img width="440" height="128" alt="Crawrix logo" src="https://github.com/user-attachments/assets/cca5ff51-2a18-4ab2-8489-1a945a394ae8" />
