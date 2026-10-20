@@ -58,7 +58,7 @@ Released under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-danpain800@gmail.com
+danpain779@gmail.com
 
 <div align="center">
 
