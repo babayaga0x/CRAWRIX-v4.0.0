@@ -3,6 +3,8 @@
 ⚠️ This project is provided under Apache 2.0 + Commons Clause.
 Commercial use is strictly prohibited without written permission from the author.
 
+Crawrix is a Open-source tool designed to simplify your SEO analysis and improve your online visibility. It helps you discover relevant links based on keywords you provide, making it an essential tool for SEO specialists, content creators, and digital marketers.
+
 📧 Email: danpain800@gmail.com
 
 <p align="center">
