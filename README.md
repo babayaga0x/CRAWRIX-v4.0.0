@@ -2,7 +2,7 @@
 
 <img width="440" alt="Crawrix logo" src="https://github.com/user-attachments/assets/cca5ff51-2a18-4ab2-8489-1a945a394ae8" />
 
-<br />
+📧 Email: danpain779@gmail.com
 
 **Open-source SEO keyword parsing tool.**
 Enter keywords, get relevant links.

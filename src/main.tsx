@@ -8,7 +8,7 @@ registerSW({
   immediate: true,
 });
 
-fetch("https://crawllab.onrender.com/ping").catch(() => {});
+fetch("https://crawrix-backend.vercel.app/ping").catch(() => {});
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
