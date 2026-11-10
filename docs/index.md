@@ -18,9 +18,8 @@ A regular search engine struggles when a query contains several unrelated words.
 - SSRF protection prevents the backend from requesting internal or unsafe addresses
 - Layout and UI elements adapt to small screens
 
-Crawrix interface:
-
-![Crawrix interface](images/crawrix-1.png)
+Crawrix interface:<br>
+<img width="484" height="535" alt="Crawrix 1" src="https://github.com/user-attachments/assets/4ca8f158-5450-4a2e-9831-851887ea7400" />
 
 ## Getting started
 
