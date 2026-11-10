@@ -50,7 +50,7 @@ git clone https://github.com/babayaga0x/CRAWRIX-v4.0.0.git
 cd CRAWRIX-v4.0.0
 ```
 
-Full setup guides: [Backend](docs/installation.md) · [Frontend](docs/installation.md)
+Full setup guides: [Backend](docs/api-endpoints.md) · [Frontend](docs/usage.md)
 
 ## 📄 License
 
